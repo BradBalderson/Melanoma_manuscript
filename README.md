@@ -8,7 +8,7 @@ drug sensitivities.
 An overview for each of the directory structure. Analysis summarised in below
 figure.
 
-    ![title][]
+    ![title][https://github.com/BradBalderson/Melanoma_manuscript/blob/main/docs/MelanomaMethodsFlow_v2.png]
 
 For information about individual scripts and notebooks, see docs/index.md.
 
